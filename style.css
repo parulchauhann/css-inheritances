@@ -1,0 +1,14 @@
+/* Properties which are inherited by the child element*/
+body {
+  color: blueviolet;
+  font-size: 24px;
+  word-spacing: 5px;
+  word-break: keep-all;
+  font-weight: 500;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+/* Properties which are not inherited by the child element */
+  border: 5px dotted brown;
+  padding: 15px;
+  background-color:silver;
+}
